@@ -1,6 +1,6 @@
 package com.employee.model.user;
 
-import com.employee.model.UserRole;
+
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
